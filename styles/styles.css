@@ -1,0 +1,37 @@
+#main {
+    margin: 30px auto;
+    padding: 15px;
+    border: 0px solid;
+    border-radius: 5px;
+    background: #eee;
+
+}
+
+#title,
+.title-p {
+    text-align: center;
+}
+
+#img-div {
+    margin: 0 auto;
+    width: 100%;
+    border: 5px solid white;
+    background: white;
+    text-align: center;
+}
+
+#tribute-info ul li {
+    width: 40%;
+    margin: 0 auto;
+    /* text-align: center; */
+}
+
+.tribute-link-p {
+    font-size: 24px;
+}
+
+#tribute-info h2,
+.tribute-link-p,
+blockquote {
+    text-align: center;
+}
